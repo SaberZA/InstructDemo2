@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct2\Instruct2.Test\bin\Debug\Instruct2.Test.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct2\Instruct2.Test\bin\Debug\Instruct2.Test.pdb
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct2\Instruct2.Test\bin\Debug\Instruct2.Core.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct2\Instruct2.Test\bin\Debug\nunit.framework.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct2\Instruct2.Test\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct2\Instruct2.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct2\Instruct2.Test\bin\Debug\Instruct2.Core.pdb
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct2\Instruct2.Test\bin\Debug\nunit.framework.xml
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct2\Instruct2.Test\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct2\Instruct2.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct2\Instruct2.Test\obj\Debug\Instruct2.Test.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct2\Instruct2.Test\obj\Debug\Instruct2.Test.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Instruct2\Instruct2.Test\obj\Debug\Instruct2.Test.pdb
